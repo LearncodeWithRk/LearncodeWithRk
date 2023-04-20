@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rohitsharma.creator@gmail.com**
 
-- ⚡ Fun fact **https://www.instagram.com/learncodewithrk/?next=%2F**
+- ⚡ Fun fact i am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
