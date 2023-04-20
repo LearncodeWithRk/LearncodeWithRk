@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1200" src="">
+<img align="center" alt="coding" width="1200" src="https://asset.cloudinary.com/learncodewithrk/630c5b89ffc099208a9af8fc6e9be86b">
 <h1 align="center">Hi 👋, I'm Rohit Sharma India</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
