@@ -29,7 +29,7 @@
 
 
 <a href="https://www.facebook.com/Ronitsharma.ideas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ronitsharma.ideas/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/learncodewithrk/?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/learncodewithrk/?utm_medium=copy_link" height="30" width="40" /></a>
+<a href="https://www.instagram.com/learncodewithrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/learncodewithrk/?utm_medium=copy_link" height="30" width="40" /></a>
 <a href="https://www.behance.net/learncodewithrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/learncodewithrk/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@learncodewithrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@learncodewithrk" height="30" width="40" /></a>
 </p>
