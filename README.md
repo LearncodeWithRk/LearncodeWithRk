@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="1200" src="https://res.cloudinary.com/learncodewithrk/image/upload/v1681989910/Banner/banner_cfjp34.jpg">
-# Hi, I'm Rohit Sharma 👋
+Hi, I'm Rohit Sharma 👋
 
 Developer & UI/UX Designer with **6+ years of experience** building **modern websites, mobile apps, and AI-powered systems**.
 
